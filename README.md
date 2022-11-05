@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Matteo 👋<br><br><br>🔭 I’m Owner of Herion<br><br>🌱 I’m currently learning Java<br><br>📫 How to reach me: $Matt#8182 - https://t.me/SrMatt<br><br>⚡ Herion: https://dsc.gg/herion<br><br>
+👋 Hi, I'm Matteo 👋<br><br><br>🔭 I’m Owner of Herion<br><br>🌱 I’m currently learning Java<br><br>📫 How to reach me: $Matt#8182 - https://t.me/SrMatt<br><br>⚡ Herion: [![Discord](Discord)](https://discord.gg/3VtAuerKh2)<br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SetMatt&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
