@@ -2,7 +2,7 @@
 👋 Hi, I'm **Matteo** 👋<br><br><br>🔭 I’m **Owner** of **Herion**<br><br>🌱 I’m currently learning Java<br><br>📫 How to reach me: $Matt#8182 - [Telegram](https://t.me/SrMatt)<br><br>⚡ [Herion](https://discord.gg/3VtAuerKh2)<br><br>
 
 # 🎮 Herion:
-[![Discord][(https://discord.com/api/guilds/980539327828353064/widget.json)]
+[![Discord](https://discord.com/api/guilds/980539327828353064/widget.json)
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3VtAuerKh2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/herioncommunity) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@herioncommunity) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/HerionCommunity) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/herioncommunity) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCYQk96j1Nu7ynjGgPv3VhSw) 
