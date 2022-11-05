@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Matteo 👋<br><br><br>🔭 I’m Owner of Herion<br><br>🌱 I’m currently learning Java<br><br>📫 How to reach me: $Matt#8182 - [Telegram](https://t.me/SrMatt)<br><br>⚡ [Herion](https://discord.gg/3VtAuerKh2)<br><br>
+👋 Hi, I'm **Matteo** 👋<br><br><br>🔭 I’m **Owner** of **Herion**<br><br>🌱 I’m currently learning Java<br><br>📫 How to reach me: $Matt#8182 - [Telegram](https://t.me/SrMatt)<br><br>⚡ [Herion](https://discord.gg/3VtAuerKh2)<br><br>
 
 
 # 🌐 Socials:
